@@ -1,0 +1,7 @@
+SAM experiments (optimized run)
+Files:
+- phase_data.csv, phase_diagram.png
+- soft_vs_hard_radial.csv, hard_vs_soft_radial.png
+- 1d_wave_*.png
+- phi_radial.csv, phi_radial.png
+- evaporation_M_vs_t.csv, evaporation_Mt.png
